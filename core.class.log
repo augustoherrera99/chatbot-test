@@ -1,0 +1,178 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493548407949@s.whatsapp.net',
+    fromMe: false,
+    id: '12EBE8143D1FE5C2A5D9CB03F5822069',
+    participant: undefined
+  },
+  messageTimestamp: 1752794901,
+  pushName: 'Augusto',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hbj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hbj',
+  name: 'Augusto',
+  from: '5493548407949',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0f4c04ae-ce61-4d40-bea0-8d60b5228c43',
+  keyword: 'key_a26499f9-ee89-4e23-a378-525da118ffbb',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'd9835e6ce605698db143884eace97cb5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9900c993-193c-44df-9647-82b6721ff3fb',
+  keyword: 'ans_0f4c04ae-ce61-4d40-bea0-8d60b5228c43',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '19076cb40493f25a18a9d19e43e00834'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_25520332-83b3-4856-a59e-28a6993d784f',
+  keyword: 'ans_9900c993-193c-44df-9647-82b6721ff3fb',
+  answer: '👋 ¡Hola! ¿Cómo puedo ayudarte hoy?',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c375b42123cc1d2df84a754715a90c3e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dec666e3-688c-4056-80b7-3837a12d7ed7',
+  keyword: 'ans_25520332-83b3-4856-a59e-28a6993d784f',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7d29b537a66dcfb99f970c3f35122774'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb996e80-8acf-4d38-ba0b-9707e78b3875',
+  keyword: 'ans_dec666e3-688c-4056-80b7-3837a12d7ed7',
+  answer: '1️⃣ Ver productos\n' +
+    '2️⃣ Consultar precios\n' +
+    '3️⃣ Horarios de atención\n' +
+    '4️⃣ Ubicación\n' +
+    '5️⃣ Quiero contactar con un asesor\n' +
+    '6️⃣ Salir',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd1dab09cb7a1f659a5d56aa3d0054180'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc674424-bd09-4cf4-959e-25a262bd1b21',
+  keyword: 'ans_eb996e80-8acf-4d38-ba0b-9707e78b3875',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'f9f9ecb0e4f4be780afc4e6eb37559d3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493548407949@s.whatsapp.net',
+    fromMe: false,
+    id: 'EC529302BA2D30BE63F585B4E45329AE',
+    participant: undefined
+  },
+  messageTimestamp: 1752794904,
+  pushName: 'Augusto',
+  broadcast: false,
+  message: Message {
+    conversation: '6',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '6',
+  name: 'Augusto',
+  from: '5493548407949',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_83b63564-9c06-4441-a6d3-566e74cd8a81',
+  keyword: 'key_6d3081e0-0a56-46fb-954f-81c3ee74c811',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c7d5ca8d28db1f274f15d5fe62f79941'
+}
