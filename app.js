@@ -217,7 +217,7 @@ setInterval(async () => {
         }
     }
   }
-}, 30 * 1000); // cada minuto
+}, 60 * 1000); // cada minuto
 
 //const flows = [
 //     flujoPrincipal, flujoProductos, flujoPrecios, flujoHorarios, flujoUbicacion, flujoAsesor, flujoSalir
