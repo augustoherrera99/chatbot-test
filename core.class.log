@@ -2,28 +2,29 @@
   key: {
     remoteJid: '5493548407949@s.whatsapp.net',
     fromMe: false,
-    id: '12EBE8143D1FE5C2A5D9CB03F5822069',
+    id: '3EB00EB644659CF8588488',
     participant: undefined
   },
-  messageTimestamp: 1752794901,
+  messageTimestamp: 1752797113,
   pushName: 'Augusto',
   broadcast: false,
   message: Message {
-    conversation: 'Hbj',
+    conversation: 'fds',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
+      messageSecret: [Uint8Array],
+      limitSharingV2: [LimitSharing]
     }
   },
-  body: 'Hbj',
+  body: 'fds',
   name: 'Augusto',
   from: '5493548407949',
   host: '5493512321161'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0f4c04ae-ce61-4d40-bea0-8d60b5228c43',
-  keyword: 'key_a26499f9-ee89-4e23-a378-525da118ffbb',
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -36,11 +37,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'd9835e6ce605698db143884eace97cb5'
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_9900c993-193c-44df-9647-82b6721ff3fb',
-  keyword: 'ans_0f4c04ae-ce61-4d40-bea0-8d60b5228c43',
+  ref: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  keyword: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -53,11 +54,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '19076cb40493f25a18a9d19e43e00834'
+  refSerialize: 'a0e60a396376f9e55b02f90d040cef9d'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_25520332-83b3-4856-a59e-28a6993d784f',
-  keyword: 'ans_9900c993-193c-44df-9647-82b6721ff3fb',
+  ref: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  keyword: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
   answer: '👋 ¡Hola! ¿Cómo puedo ayudarte hoy?',
   options: {
     media: undefined,
@@ -70,11 +71,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'c375b42123cc1d2df84a754715a90c3e'
+  refSerialize: 'b2a4f5a4f2061b61af8be848912ca4eb'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_dec666e3-688c-4056-80b7-3837a12d7ed7',
-  keyword: 'ans_25520332-83b3-4856-a59e-28a6993d784f',
+  ref: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  keyword: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -87,11 +88,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '7d29b537a66dcfb99f970c3f35122774'
+  refSerialize: '9537a4d50d7a3754f3bfe2d3e5bcc488'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_eb996e80-8acf-4d38-ba0b-9707e78b3875',
-  keyword: 'ans_dec666e3-688c-4056-80b7-3837a12d7ed7',
+  ref: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  keyword: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
   answer: '1️⃣ Ver productos\n' +
     '2️⃣ Consultar precios\n' +
     '3️⃣ Horarios de atención\n' +
@@ -109,11 +110,11 @@
     keyword: {},
     callback: false
   },
-  refSerialize: 'd1dab09cb7a1f659a5d56aa3d0054180'
+  refSerialize: 'c49e60a142da20c4e9348d4d907cb61b'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_cc674424-bd09-4cf4-959e-25a262bd1b21',
-  keyword: 'ans_eb996e80-8acf-4d38-ba0b-9707e78b3875',
+  ref: 'ans_a0c58525-602e-4bed-ab7a-6bff2dd1ecbd',
+  keyword: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
   answer: '__capture_only_intended__',
   options: {
     media: undefined,
@@ -134,34 +135,34 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'f9f9ecb0e4f4be780afc4e6eb37559d3'
+  refSerialize: '5022f610c13569edc6734c4c2325c41f'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493548407949@s.whatsapp.net',
+    remoteJid: '5493425156738@s.whatsapp.net',
     fromMe: false,
-    id: 'EC529302BA2D30BE63F585B4E45329AE',
+    id: '3AF9740EE86A52489072',
     participant: undefined
   },
-  messageTimestamp: 1752794904,
-  pushName: 'Augusto',
+  messageTimestamp: 1752797120,
+  pushName: 'Pilar Maradona',
   broadcast: false,
   message: Message {
-    conversation: '6',
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '6',
-  name: 'Augusto',
-  from: '5493548407949',
+  body: 'Hola',
+  name: 'Pilar Maradona',
+  from: '5493425156738',
   host: '5493512321161'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_83b63564-9c06-4441-a6d3-566e74cd8a81',
-  keyword: 'key_6d3081e0-0a56-46fb-954f-81c3ee74c811',
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -174,5 +175,986 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'c7d5ca8d28db1f274f15d5fe62f79941'
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  keyword: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a0e60a396376f9e55b02f90d040cef9d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  keyword: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  answer: '👋 ¡Hola! ¿Cómo puedo ayudarte hoy?',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2a4f5a4f2061b61af8be848912ca4eb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  keyword: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9537a4d50d7a3754f3bfe2d3e5bcc488'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  keyword: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  answer: '1️⃣ Ver productos\n' +
+    '2️⃣ Consultar precios\n' +
+    '3️⃣ Horarios de atención\n' +
+    '4️⃣ Ubicación\n' +
+    '5️⃣ Quiero contactar con un asesor\n' +
+    '6️⃣ Salir',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c49e60a142da20c4e9348d4d907cb61b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0c58525-602e-4bed-ab7a-6bff2dd1ecbd',
+  keyword: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5022f610c13569edc6734c4c2325c41f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493425156738@s.whatsapp.net',
+    fromMe: false,
+    id: '3A19C32D5C5827877A50',
+    participant: undefined
+  },
+  messageTimestamp: 1752797129,
+  pushName: 'Pilar Maradona',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  name: 'Pilar Maradona',
+  from: '5493425156738',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9c55c0c9-500d-4dba-bbe7-f0dd7fd0f46d',
+  keyword: 'key_2d6c461b-479e-4ef2-b30c-dedc9f74ac6d',
+  answer: 'Consultando items en la base de datos...',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0474b6fac11bc1eb73863a90c22e800e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f009242-4ce0-4827-8fc6-2bcc3118e706',
+  keyword: 'ans_9c55c0c9-500d-4dba-bbe7-f0dd7fd0f46d',
+  answer: 'Si queres retornar al menú, ingresa 9️⃣\n' +
+    '\n' +
+    'Si queres dar por finalizada la conversación, ingresa 0️⃣',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1ea8e5d678fba089801a5aa1f3588eea'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a6200db9-0e27-42a0-9386-01609e1965f0',
+  keyword: 'ans_4f009242-4ce0-4827-8fc6-2bcc3118e706',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0fa9cc5cd7406cfc4ab7ac05aab1ff17'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '62B552F03587214BFA4D8EF5555BE97F',
+    participant: undefined
+  },
+  messageTimestamp: 1752797159,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0,
+      linkPreviewMetadata: LinkPreviewMetadata {}
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: 'Hola',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  keyword: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a0e60a396376f9e55b02f90d040cef9d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  keyword: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  answer: '👋 ¡Hola! ¿Cómo puedo ayudarte hoy?',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2a4f5a4f2061b61af8be848912ca4eb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  keyword: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9537a4d50d7a3754f3bfe2d3e5bcc488'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  keyword: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  answer: '1️⃣ Ver productos\n' +
+    '2️⃣ Consultar precios\n' +
+    '3️⃣ Horarios de atención\n' +
+    '4️⃣ Ubicación\n' +
+    '5️⃣ Quiero contactar con un asesor\n' +
+    '6️⃣ Salir',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c49e60a142da20c4e9348d4d907cb61b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0c58525-602e-4bed-ab7a-6bff2dd1ecbd',
+  keyword: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5022f610c13569edc6734c4c2325c41f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493425156738@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2279F410B80B9E2D77',
+    participant: undefined
+  },
+  messageTimestamp: 1752797169,
+  pushName: 'Pilar Maradona',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  name: 'Pilar Maradona',
+  from: '5493425156738',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '6338030429071012D608DFB509A5AC8C',
+    participant: undefined
+  },
+  messageTimestamp: 1752797171,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '1',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9c55c0c9-500d-4dba-bbe7-f0dd7fd0f46d',
+  keyword: 'key_2d6c461b-479e-4ef2-b30c-dedc9f74ac6d',
+  answer: 'Consultando items en la base de datos...',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0474b6fac11bc1eb73863a90c22e800e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f009242-4ce0-4827-8fc6-2bcc3118e706',
+  keyword: 'ans_9c55c0c9-500d-4dba-bbe7-f0dd7fd0f46d',
+  answer: 'Si queres retornar al menú, ingresa 9️⃣\n' +
+    '\n' +
+    'Si queres dar por finalizada la conversación, ingresa 0️⃣',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1ea8e5d678fba089801a5aa1f3588eea'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a6200db9-0e27-42a0-9386-01609e1965f0',
+  keyword: 'ans_4f009242-4ce0-4827-8fc6-2bcc3118e706',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0fa9cc5cd7406cfc4ab7ac05aab1ff17'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493425156738@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA9D96E944D7DA29AA5',
+    participant: undefined
+  },
+  messageTimestamp: 1752797188,
+  pushName: 'Pilar Maradona',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  name: 'Pilar Maradona',
+  from: '5493425156738',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '9AF28561081798536AF40EC87517F3C5',
+    participant: undefined
+  },
+  messageTimestamp: 1752797204,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '9',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '9',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: 'A6EAF46804CF21D90F9771046FE4D463',
+    participant: undefined
+  },
+  messageTimestamp: 1752797248,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '2',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493425156738@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABDDEFD7D41D8A744E6',
+    participant: undefined
+  },
+  messageTimestamp: 1752797253,
+  pushName: 'Pilar Maradona',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  name: 'Pilar Maradona',
+  from: '5493425156738',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_44b5c42f-49a4-4ea3-9ac2-672eba491c3f',
+  keyword: 'key_4ea0cc59-e66c-42a2-a22d-3f4d8f552088',
+  answer: 'Consultando items en la base de datos...',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '17bc214e352e5fe0a29468f9687a18ba'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13328ba6-a233-4f8f-92b2-6370338a62d4',
+  keyword: 'ans_44b5c42f-49a4-4ea3-9ac2-672eba491c3f',
+  answer: 'Si queres retornar al menú, ingresa 9️⃣\n' +
+    '\n' +
+    'Si queres dar por finalizada la conversación, ingresa 0️⃣',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f69c11261de316e24c99e94195c56744'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8fe4255b-5b30-4d3e-88b5-e896928c9316',
+  keyword: 'ans_13328ba6-a233-4f8f-92b2-6370338a62d4',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '840f719686aa1bb8aa01ee7274fecb93'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: 'FAE90D8D758DAB049F4460F9C017B4E7',
+    participant: undefined
+  },
+  messageTimestamp: 1752797270,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '4',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493425156738@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF3D1CBE7A202A8D277',
+    participant: undefined
+  },
+  messageTimestamp: 1752797278,
+  pushName: 'Pilar Maradona',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '9', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '9',
+  name: 'Pilar Maradona',
+  from: '5493425156738',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '7F0FE2B99995F10A41F2F5EABB63C745',
+    participant: undefined
+  },
+  messageTimestamp: 1752797282,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '9',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '9',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '9EF6B048E7CAE524172F5B7C992585F1',
+    participant: undefined
+  },
+  messageTimestamp: 1752797296,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '5',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9c7bd54d-b773-4348-a681-cf8526629047',
+  keyword: 'key_f81b6414-73c7-4e8f-ba70-90b62adcbeff',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e71d8b70b7dda9787d80bc4c808517dc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '5F93F99E720160D0DC7796C6B5536408',
+    participant: undefined
+  },
+  messageTimestamp: 1752797409,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '3',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: 'D99F110722D89E9A596DF4A1C9832AD4',
+    participant: undefined
+  },
+  messageTimestamp: 1752797420,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '9',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '9',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: 'C4704E45B5306A61F83D5A84D619EB66',
+    participant: undefined
+  },
+  messageTimestamp: 1752797426,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: 'Hola',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: '8ABC74AEDC870844C31D9426672C1B5F',
+    participant: undefined
+  },
+  messageTimestamp: 1752797453,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: 'Hola',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  keyword: 'key_7886c536-36e1-44f0-a4e6-8ce5278a020e',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4357e924ef79d2490d38472e558d64de'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  keyword: 'ans_7bbd0c2b-a664-4a85-8d99-88498e5a5377',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a0e60a396376f9e55b02f90d040cef9d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  keyword: 'ans_ac3486a7-37c8-4932-9cec-474a86680f99',
+  answer: '👋 ¡Hola! ¿Cómo puedo ayudarte hoy?',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b2a4f5a4f2061b61af8be848912ca4eb'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  keyword: 'ans_cbd9fcc9-e4c1-40ef-ab59-10462f194115',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9537a4d50d7a3754f3bfe2d3e5bcc488'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  keyword: 'ans_eb109685-ec6d-45ef-914e-0e515b1b57bc',
+  answer: '1️⃣ Ver productos\n' +
+    '2️⃣ Consultar precios\n' +
+    '3️⃣ Horarios de atención\n' +
+    '4️⃣ Ubicación\n' +
+    '5️⃣ Quiero contactar con un asesor\n' +
+    '6️⃣ Salir',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c49e60a142da20c4e9348d4d907cb61b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a0c58525-602e-4bed-ab7a-6bff2dd1ecbd',
+  keyword: 'ans_342d6474-a78b-4022-af7e-464031081f0b',
+  answer: '__capture_only_intended__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: true,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5022f610c13569edc6734c4c2325c41f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493547328349@s.whatsapp.net',
+    fromMe: false,
+    id: 'B9573625365A053EB589301C4A372F1B',
+    participant: undefined
+  },
+  messageTimestamp: 1752797462,
+  pushName: 'Dataviz',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Dataviz',
+  body: '5',
+  name: 'Dataviz',
+  from: '5493547328349',
+  host: '5493512321161'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9c7bd54d-b773-4348-a681-cf8526629047',
+  keyword: 'key_f81b6414-73c7-4e8f-ba70-90b62adcbeff',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'e71d8b70b7dda9787d80bc4c808517dc'
 }
